@@ -1,3 +1,13 @@
+# 🏆 Award Winner - AI Agent Hackathon 2026
+
+TrustLayer won the **"Best use of Nebius" ($500 prize)** award in the **Agentic Infrastructure track** at the 2026 AI Agent Hackathon!
+
+### My Key Contributions:
+* **Product Design & Implementation Strategy**: Conceived operational logic frameworks to sync cross-chain payment validation webhooks directly into the automated user notification pipelines.
+* **Infrastructure Optimization**: Co-designed the backend agent workflows utilizing Nebius AI cloud compute layers for high-performance inference.
+* **Web3 Integration**: Facilitated systemic configurations syncing smart contracts with the multi-agent orchestration architecture.
+
+
 # TrustLayer
 
 TrustLayer is the approved demo app formerly referred to as CoverPilot in older
